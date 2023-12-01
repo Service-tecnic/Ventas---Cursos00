@@ -1,0 +1,15 @@
+input {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.contenedor {
+    color: rgb(82, 185, 245);
+}
+
+button {
+    background:rgb(82, 185, 245) ;
+    color: #ffffff;
+    border-radius: 20px;
+}

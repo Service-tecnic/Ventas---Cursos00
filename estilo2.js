@@ -1,0 +1,1 @@
+alert("estas usando boton de pago: Mercado pago");

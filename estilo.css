@@ -1,0 +1,17 @@
+body {
+    background: url(pixelss.jpeg);
+}
+
+.contenedor {
+    background-image: url(imagenez.jpeg);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+
+.contenedor2 {
+    background: url(imagenez.jpeg);
+    border-radius: 20px;
+}
+
